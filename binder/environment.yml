@@ -3,7 +3,7 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - appnope=0.1.0=py36_1000
+  - appnope
   - asn1crypto=0.24.0=py36_1003
   - attrs=18.2.0=py_0
   - backcall=0.1.0=py_0
@@ -45,7 +45,7 @@ dependencies:
   - libsodium=1.0.16=h470a237_1
   - llvm-meta=7.0.0=0
   - markupsafe=1.1.0=py36h470a237_0
-  - matplotlib=2.2.3=py36h0e0179f_0
+  - matplotlib=2.2.3
   - mistune=0.8.4=py36h470a237_0
   - mkl_fft=1.0.10=py36_0
   - mkl_random=1.0.2=py36_0
@@ -116,17 +116,17 @@ dependencies:
   - zlib=1.2.11=h470a237_3
   - blas=1.0=mkl
   - boto=2.49.0=py36_0
-  - cymem=2.0.2=py36h04f5b5a_0
-  - gensim=3.4.0=py36h1de35cc_0
+  - cymem=2.0.2
+  - gensim=3.4.0
   - intel-openmp=2019.1=144
-  - libgfortran=3.0.1=h93005f0_2
-  - libopenblas=0.3.3=hdc02c5d_3
+  - libgfortran=3.0.1
+  - libopenblas=0.3.3
   - mkl=2018.0.3=1
   - numpy=1.15
-  - numpy-base=1.15.4=py36h8a80b8c_0
-  - preshed=2.0.1=py36h0a44026_0
-  - scikit-learn=0.20.1=py36h4f467ca_0
-  - scipy=1.1.0=py36h28f7352_1
+  - numpy-base=1.15.4
+  - preshed=2.0.1
+  - scikit-learn=0.20.1
+  - scipy=1.1.0
   - pip:
     - msgpack==0.6.0
 prefix: /Users/veronica/miniconda3/envs/spooky
