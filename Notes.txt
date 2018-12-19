@@ -5,3 +5,5 @@ search - Brute force method matching text from test.csv to master.csv Runtime ab
 textToTable - Assumes .txt files are placed in folders with author's abbreviations.  Will read the text files, and create .csv files with the sentence and author's name.  Also able to combine up to 3 .csv file into one. 
 
 threePipelines - 
+
+Installed scikit-plot
