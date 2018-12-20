@@ -3,6 +3,7 @@ channels:
   - conda-forge
   - defaults
 dependencies:
+  - appnope
   - asn1crypto=0.24.0=py36_1003
   - attrs=18.2.0=py_0
   - backcall=0.1.0=py_0
@@ -115,10 +116,11 @@ dependencies:
   - zlib=1.2.11=h470a237_3
   - blas=1.0=mkl
   - boto=2.49.0=py36_0
-  - cymem=2.0.2
-  - gensim=3.4.0
+  - cymem=2.0.2=py36h04f5b5a_0
+  - gensim
   - intel-openmp=2019.1=144
-  - libopenblas=0.3.3
+  - libgfortran
+  - libopenblas=0.3.3=hdc02c5d_3
   - mkl=2018.0.3=1
   - numpy=1.15
   - numpy-base=1.15.4
